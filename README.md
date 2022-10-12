@@ -1,1 +1,1 @@
-# How-can-you-upload-PDF-files-without-a-database-and-you-can-download-files-using-PHP
+Create two folders, the first with the name Folder_FBpdf and the second with the name Folder_IMG_CB in the project folder
